@@ -16,7 +16,7 @@ body {
     height: 100vh;
     border-right: 1px solid black;
     padding: 10px;
-    background-color: #c4babab6;
+    background-color:hsla(0, 10%, 88%, 0.714);
     box-sizing: border-box;
 }
 
