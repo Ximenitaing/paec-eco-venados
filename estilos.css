@@ -3,7 +3,6 @@ body {
     background-color: #a19898;
     margin: 0;
     font-family: Arial, sans-serif;
-    
 }
 
 .contenedor {
@@ -16,7 +15,7 @@ body {
     height: 100vh;
     border-right: 1px solid black;
     padding: 10px;
-    background-color:hsla(0, 10%, 88%, 0.714);
+    background-color: #e8f5e9;
     box-sizing: border-box;
 }
 
@@ -33,9 +32,7 @@ body {
     padding: 20px;
     width: calc(100% - 220px);
     box-sizing: border-box;
-
 }
-
 
 .contenido h3 {
     color: rgb(14, 14, 117);
@@ -75,12 +72,16 @@ img {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.titulo { background-color:#cfe2f3; padding: 15px; margin-bottom: 20px; border-radius: 8px; 
+.titulo {
+    background-color: #cfe2f3;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
 }
 
 .datos,
 .preguntas {
-    background-color: #ffffff;
+    background-color: #fafbfa;
     padding: 15px 20px;
     margin-bottom: 18px;
     border-radius: 8px;
@@ -123,8 +124,9 @@ input[type="submit"]:hover,
 .btn-volver:hover {
     background-color: #1b5e20;
 }
+
 .pie-pagina {
-    background-color: #ffffff;
+    background-color: #f1f5f2;
     padding: 15px 20px;
     margin-top: 25px;
     border-radius: 8px;
@@ -145,6 +147,7 @@ input[type="submit"]:hover,
     margin: 6px 0;
     word-break: break-word;
 }
+
 .contenido ol,
 .contenido dl {
     margin: 10px 0 15px 0;
@@ -180,4 +183,3 @@ input[type="submit"]:hover,
     margin-left: 20px;
     margin-bottom: 8px;
 }
-
