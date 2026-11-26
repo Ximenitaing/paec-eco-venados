@@ -1,6 +1,6 @@
 /* Configuración general */
 body {
-    background-color: #a19898;
+    background-color: #a8c3a0;
     margin: 0;
     font-family: Arial, Verdana, sans-serif;
 }
@@ -22,7 +22,7 @@ h1, h2, h3 {
     position: fixed;
     height: 100vh;
     padding: 15px;
-    background-color: #ecefef;
+    background-color: #e6f0e4;
     border-right: 1px solid #333333;
 }
 
@@ -38,6 +38,11 @@ h1, h2, h3 {
 .contenido {
     margin-left: 220px;
     padding: 20px;
+}
+
+.contenido h3 {
+    color: #0e0e75;
+    margin-top: 0;
 }
 
 /* Encabezados */
@@ -124,6 +129,10 @@ img {
     font-style: italic;
 }
 
+.pie-pagina h4 {
+    color: #b25ccc;
+    margin-top: 0;
+}
 .pie-pagina h4 {
     color: #b25ccc;
     margin-top: 0;
