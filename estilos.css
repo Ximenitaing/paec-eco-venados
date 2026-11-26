@@ -13,6 +13,7 @@ h1, h2, h3 {
 .titulo h1,
 .cabecera h1 {
     text-align: center;
+    text-transform: uppercase;
 }
 
 /* Menú lateral fijo */
@@ -125,6 +126,7 @@ img {
     margin-top: 25px;
     border-radius: 8px;
     border-top: 4px solid #420c49;
+    font-style: italic;
 }
 
 .pie-pagina h4 {
